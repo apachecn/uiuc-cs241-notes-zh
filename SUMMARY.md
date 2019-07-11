@@ -1,6 +1,5 @@
 +   [UIUC CS241 系统编程中文讲义](README.md)
-+   [0\. HW0 /资源](docs/1.md)
-    +   [HW0](docs/2.md)
++   [0\. 简介](docs/1.md)
     +   [#Informal词汇表](docs/3.md)
     +   [#Piazza：何时以及如何寻求帮助](docs/4.md)
     +   [编程技巧，第1部分](docs/5.md)
