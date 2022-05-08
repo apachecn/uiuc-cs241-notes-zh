@@ -4,6 +4,8 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
+> 阶段：机翻（1）
+> 
 > 真正的程序员在冒险和搞事时脑子最聪明。
 
 * [在线阅读](https://cs241.apachecn.org)
